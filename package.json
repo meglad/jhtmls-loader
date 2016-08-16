@@ -1,6 +1,6 @@
 {
   "name": "jhtmls-loader",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "jhtmls template for webpack",
   "main": "index.js",
   "author": "@meglad",
@@ -13,7 +13,8 @@
   ],
   "dependencies": {
     "jhtmls": "^1.0.0",
-    "loader-utils": "^0.2.15"
+    "loader-utils": "^0.2.15",
+    "html-minifier": "^3.0.2"
   },
   "devDependencies": {
   },
